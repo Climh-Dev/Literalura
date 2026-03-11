@@ -1,4 +1,4 @@
-#  Literalura - Challenge Alura Geek
+#  Literalura - Challenge Cursos Alura G9 ONE
 
 ¡Bienvenido a **Literalura**! Este es un sistema de catálogo de libros interactivo desarrollado en **Java 17** con **Spring Boot**. La aplicación consume datos reales de la API [Gutendex](https://gutendex.com/) para buscar libros, procesar información de autores y persistir todo en una base de datos relacional.
 
