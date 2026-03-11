@@ -23,7 +23,7 @@ El sistema ofrece un menú interactivo por consola con las siguientes capacidade
 4.  **Listar autores vivos en un determinado año**: Filtro inteligente para consultar qué autores de nuestra base de datos estaban activos en el año que elijas.
 5.  **Listar libros por idioma**: Filtra tu biblioteca personal por códigos de idioma (es, en, fr, pt).
 
-## 📸 Demostración
+##  Demostración
 
 ### Menú Principal
 *(Inserta aquí tu captura de la consola con el menú)*
